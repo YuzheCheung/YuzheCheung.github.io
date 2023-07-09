@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Until now（2023 Spring）, I am a sophomore physics student from [Southern University of Science and Technology(SUSTech)](https://www.sustech.edu.cn/).By the way, I graduated from Hefei 168 Middle School(http://www.hf168.net/index.html)
+Until now（2023 Spring）, I am a sophomore physics student from [Southern University of Science and Technology(SUSTech)](https://www.sustech.edu.cn/).By the way, I graduated from [Hefei 168 Middle School](http://www.hf168.net/index.html)
 
 My academic tutor is [Prof.Wang Gan](https://www.sustech.edu.cn/zh/faculties/english-wang-gan.html).
 
